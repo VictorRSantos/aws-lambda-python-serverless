@@ -1,4 +1,3 @@
-
 # Descrição: Variaveis e tipos de dados
 
 # Variáveis em Python
